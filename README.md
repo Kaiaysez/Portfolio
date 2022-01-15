@@ -1,7 +1,7 @@
 # Portfolio
 Portfolio containing my data science related projects/university assignments.
 
-## University Assignments and Projects (Distinction/High Distinction)
+## Data Science Related University Courses
 
 ### Course: STAT3006 - Statistical Learning (High Distinction)
 
