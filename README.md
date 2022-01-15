@@ -1,4 +1,4 @@
-# Portfolio
+# Data Science Related University Courses
 
 
 ## Course: STAT3006 - Statistical Learning (High Distinction)
