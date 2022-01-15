@@ -20,7 +20,7 @@ Highlights:
 Highlights: 
 * Distinguishing between real and fake bank notes using a linear support vector machine classifier mathematically derived and programmed from scratch.
 
-### Assignment 4: Assignment featuring high dimensional data (Code: Python + R)
+### [Assignment 4: Assignment featuring high dimensional data (Code: Python + R)](https://github.com/Kaiaysez/STAT3006-Assignment-4)
 Highlights:
 * Performing dimensionality reduction on handwritten digits (MNIST dataset) via auto-encoders and principle component analysis in R. 
 * Carrying out multivariate hypothesis testing and false discovery rate methods in R to test whether there is a difference in distribution of gene expression levels between Acute Lymphoblastic Leukemia cells and Acute Myeloid Leukemia cells.
