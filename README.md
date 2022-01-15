@@ -10,10 +10,11 @@ Highlights:
 * Discussion on machine learning vs statistical methods
 * Discussion on modelling and model validation
 
-### Assignment 2: Assignment featuring EDA, multivariate hypothesis testing, and clustering (Code: R) 
+### [Assignment 2: Assignment featuring EDA, multivariate hypothesis testing, and clustering (Code: R)](https://github.com/Kaiaysez/STAT3006-Assignment-2) 
 Highlights: 
 * Mathematical derivation of the EM algorithm update equations.
-* Comparing and contrasting the K-Means and the EM algorithm.
+* Implementing the K-Means and the EM algorithm and comparing the two methods.
+* Selecting the number of clusters using the gap statistic 
 
 ### Assignment 3: Assignment featuring supervised learning (Code: Python) 
 Highlights: 
