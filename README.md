@@ -1,9 +1,7 @@
 # Portfolio
-Portfolio containing my data science related projects/university assignments.
 
-## Data Science Related University Courses
 
-### Course: STAT3006 - Statistical Learning (High Distinction)
+## Course: STAT3006 - Statistical Learning (High Distinction)
 
 ### [Assignment 1: A writing task on Breimans famous paper "The Two Cultures" (ML vs Statistics)](https://github.com/Kaiaysez/STAT3006-Assignment-1)
 Highlights: 
@@ -28,4 +26,4 @@ Highlights:
 
 
 
-### Course: STAT3500 - Applied Modern Statistics (High Distinction)
+## Course: STAT3500 - Applied Modern Statistics (High Distinction)
