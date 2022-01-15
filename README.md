@@ -4,22 +4,22 @@
 ## Course: STAT3006 - Statistical Learning (High Distinction)
 
 ### [Assignment 1: A writing task on Breimans famous paper "The Two Cultures" (ML vs Statistics)](https://github.com/Kaiaysez/STAT3006-Assignment-1)
-Highlights: 
 * Discussion on machine learning vs statistical methods.
 * Discussion on modelling and model validation.
 
 ### [Assignment 2: EDA, multivariate hypothesis testing, and clustering (Code: R)](https://github.com/Kaiaysez/STAT3006-Assignment-2) 
-Highlights: 
+* Exploratory data analysis and multivariate hypothesis testing on the iris dataset.
 * Mathematical derivation of the EM algorithm update equations.
-* Implementing the K-Means and the EM algorithm and comparing the two methods.
-* Selecting the number of clusters using the gap statistic. 
+* Comparing and contrasting EM and K-Means, implementation in R.
+* Model selection via gap statistic and the Bayesian Information Criterion (BIC). 
 
 ### [Assignment 3: Supervised learning (Code: Python)](https://github.com/Kaiaysez/STAT3006-Assignment-3)
-Highlights: 
-* Distinguishing between real and fake bank notes using a linear support vector machine (SVM) classifier mathematically derived and programmed from scratch.
+* Bayes classifier and classification loss.
+* Visualizing and classifying time series data.
+* Writing and coding a linear least squares support vector machine (SVM) from scratch .
+* Using the implemented linear least squares SVM to classify real and fake bank notes.
 
 ### [Assignment 4: High dimensional data (Code: Python + R)](https://github.com/Kaiaysez/STAT3006-Assignment-4)
-Highlights:
 * Performing dimensionality reduction on handwritten digits (MNIST dataset) via auto-encoders and principle component analysis (PCA) in R. 
 * Carrying out multivariate hypothesis testing and false discovery rate (FDR) methods in R to test whether there is a difference in distribution of gene expression levels between Acute Lymphoblastic Leukemia cells and Acute Myeloid Leukemia cells.
 * Implementing elastic net regression via the glmnet package in R.
