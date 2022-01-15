@@ -16,7 +16,7 @@ Highlights:
 * Implementing the K-Means and the EM algorithm and comparing the two methods.
 * Selecting the number of clusters using the gap statistic. 
 
-### Assignment 3: Assignment featuring supervised learning (Code: Python) 
+### [Assignment 3: Assignment featuring supervised learning (Code: Python)](https://github.com/Kaiaysez/STAT3006-Assignment-3)
 Highlights: 
 * Distinguishing between real and fake bank notes using a linear support vector machine classifier mathematically derived and programmed from scratch.
 
