@@ -7,14 +7,14 @@ Portfolio containing my data science related projects/university assignments.
 
 ### [Assignment 1: A writing task on Breimans famous paper "The Two Cultures" (ML vs Statistics)](https://github.com/Kaiaysez/STAT3006-Assignment-1)
 Highlights: 
-* Discussion on machine learning vs statistical methods
-* Discussion on modelling and model validation
+* Discussion on machine learning vs statistical methods.
+* Discussion on modelling and model validation.
 
 ### [Assignment 2: Assignment featuring EDA, multivariate hypothesis testing, and clustering (Code: R)](https://github.com/Kaiaysez/STAT3006-Assignment-2) 
 Highlights: 
 * Mathematical derivation of the EM algorithm update equations.
 * Implementing the K-Means and the EM algorithm and comparing the two methods.
-* Selecting the number of clusters using the gap statistic 
+* Selecting the number of clusters using the gap statistic. 
 
 ### Assignment 3: Assignment featuring supervised learning (Code: Python) 
 Highlights: 
