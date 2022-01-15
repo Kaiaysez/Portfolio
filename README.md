@@ -3,7 +3,7 @@
 
 ## Course: STAT3006 - Statistical Learning (High Distinction)
 
-### [Assignment 1: A writing task on Breimans famous paper "The Two Cultures" (ML vs Statistics)](https://github.com/Kaiaysez/STAT3006-Assignment-1)
+### [Assignment 1: A writing task on Breimans famous paper "Statistical Modelling: The Two Cultures" (Essay)](https://github.com/Kaiaysez/STAT3006-Assignment-1)
 * Discussion on machine learning vs statistical methods.
 * Discussion on modelling and model validation.
 
