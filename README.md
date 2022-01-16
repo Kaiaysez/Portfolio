@@ -32,7 +32,7 @@
   <img src="images/PCA.png" width="400"> 
 </p>
 <p float="left">
-  <img src="images/genes.png" width="410">
+  <img src="images/Genes.png" width="410">
   <img src="images/Elastic%20net.png" width="400"> 
 </p>
 
