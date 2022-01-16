@@ -14,6 +14,11 @@
 * Model selection via gap statistic and the Bayesian Information Criterion (BIC). 
 
 ### [Assignment 3: Supervised learning (Code: Python)](https://github.com/Kaiaysez/STAT3006-Assignment-3)
+<p float="left">
+  <img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/banknotes.png" width="400" />
+  <img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/Banknotes%20classified.png" width="400" /> 
+</p>
+
 * Bayes classifier and classification loss.
 * Visualizing and classifying time series data.
 * Writing and coding a linear least squares support vector machine (SVM) from scratch .
