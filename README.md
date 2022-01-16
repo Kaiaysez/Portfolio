@@ -8,7 +8,7 @@
 * Discussion on modelling and model validation.
 
 ### [Assignment 2: EDA, multivariate hypothesis testing, and clustering (Code: R)](https://github.com/Kaiaysez/STAT3006-Assignment-2) 
-<img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/Iris.png" width=500>
+<img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/iris.png" width=500>
 
 * Exploratory data analysis and multivariate hypothesis testing on the iris dataset.
 * Mathematical derivation of the EM algorithm update equations.
