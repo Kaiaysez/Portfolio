@@ -17,8 +17,8 @@
 
 ### [Assignment 3: Supervised learning (Code: Python)](https://github.com/Kaiaysez/STAT3006-Assignment-3)
 <p float="left">
-  <img src="images/banknotes.png" width="400" >
-  <img src="images/Banknotes%20classified.png" width="415" > 
+  <img src="images/banknotes.png" width="400">
+  <img src="images/Banknotes%20classified.png" width="415"> 
 </p>
 
 * Bayes classifier and classification loss.
@@ -28,12 +28,12 @@
 
 ### [Assignment 4: High dimensional data (Code: Python + R)](https://github.com/Kaiaysez/STAT3006-Assignment-4)
 <p float="left">
-  <img src="images/Digits.png" width="410" >
-  <img src="images/PCA.png" width="400" > 
+  <img src="images/Digits.png" width="410">
+  <img src="images/PCA.png" width="400"> 
 </p>
 <p float="left">
-  <img src="images/genes.png" width="410" >
-  <img src="images/Elastic%20net.png" width="400" > 
+  <img src="images/genes.png" width="410">
+  <img src="images/Elastic%20net.png" width="400"> 
 </p>
 
 * Performing dimensionality reduction on handwritten digits (MNIST dataset) via auto-encoders and principle component analysis (PCA) in R. 
