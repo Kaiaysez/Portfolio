@@ -28,7 +28,7 @@
 
 ### [Assignment 4: High dimensional data (Code: Python + R)](https://github.com/Kaiaysez/STAT3006-Assignment-4)
 <p float="left">
-  <img src="images/Digits.png" width="410">
+  <img src="images/digits.png" width="410">
   <img src="images/PCA.png" width="400"> 
 </p>
 <p float="left">
