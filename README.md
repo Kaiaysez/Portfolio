@@ -8,6 +8,8 @@
 * Discussion on modelling and model validation.
 
 ### [Assignment 2: EDA, multivariate hypothesis testing, and clustering (Code: R)](https://github.com/Kaiaysez/STAT3006-Assignment-2) 
+<img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/Iris.png" width=500>
+
 * Exploratory data analysis and multivariate hypothesis testing on the iris dataset.
 * Mathematical derivation of the EM algorithm update equations.
 * Comparing and contrasting EM and K-Means, implementation in R.
@@ -16,7 +18,7 @@
 ### [Assignment 3: Supervised learning (Code: Python)](https://github.com/Kaiaysez/STAT3006-Assignment-3)
 <p float="left">
   <img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/banknotes.png" width="400" />
-  <img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/Banknotes%20classified.png" width="400" /> 
+  <img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/Banknotes%20classified.png" width="415" /> 
 </p>
 
 * Bayes classifier and classification loss.
