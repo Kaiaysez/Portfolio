@@ -27,6 +27,15 @@
 * Using the implemented linear least squares SVM to classify real and fake bank notes.
 
 ### [Assignment 4: High dimensional data (Code: Python + R)](https://github.com/Kaiaysez/STAT3006-Assignment-4)
+<p float="left">
+  <img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/Digits.png" width="410" />
+  <img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/PCA.png" width="400" /> 
+</p>
+<p float="left">
+  <img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/genes.png" width="410" />
+  <img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/Elastic%20net.png" width="400" /> 
+</p>
+
 * Performing dimensionality reduction on handwritten digits (MNIST dataset) via auto-encoders and principle component analysis (PCA) in R. 
 * Carrying out multivariate hypothesis testing and false discovery rate (FDR) methods in R to test whether there is a difference in distribution of gene expression levels between Acute Lymphoblastic Leukemia cells and Acute Myeloid Leukemia cells.
 * Implementing elastic net regression via the glmnet package in R.
