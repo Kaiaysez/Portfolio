@@ -65,7 +65,7 @@
 * Proving properties of the EM algorithm for Gaussian Mixture Models and deriving the update equations.
 * Maximum likelihood estimation (MLE) in the context of the EM algorithm.
 
-### [Assignment 4: Implementing the EM algorithm and hypothesis testing via bootstrapping (Code: R)](https://github.com/Kaiaysez/STAT3006-Assignment-4)
+### [Assignment 4: Implementing the EM algorithm and hypothesis testing via bootstrapping (Code: R)](https://github.com/Kaiaysez/STAT3500-Assignment-4)
 * Implementing the EM algorithm for Gaussian mixture models in R.
 * Selecting the number of clusters using the Bayesian Information Criterion (BIC).
 * Parameter estimation and hypothesis testing via parametric and non-parametric bootstraps.
