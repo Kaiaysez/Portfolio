@@ -52,6 +52,7 @@
 
 ### [Assignment 2: Statistical modelling - Generalized linear models (Code: R)](https://github.com/Kaiaysez/STAT3006-Assignment-2) 
 * Implementing generalized linear models (GLM) for non linear data.
+* Identifying the correct GLM family and link function for modelling various problems.
 * EDA, interaction terms, and model selection.
 
 ### [Assignment 3: Mathematical statistics](https://github.com/Kaiaysez/STAT3006-Assignment-3)
