@@ -50,7 +50,12 @@
 * Residual analysis, checking model assumptions.
 * Implementing and interpreting logit and probit models.
 
-### [Assignment 2: Statistical modelling - Generalized linear models (Code: R)](https://github.com/Kaiaysez/STAT3006-Assignment-2) 
+### [Assignment 2: Statistical modelling - Generalized linear models (Code: R)](https://github.com/Kaiaysez/STAT3006-Assignment-2)
+<p float="left">
+  <img src="images/cancer%20treatment.png" width="410">
+  <img src="images/insecticide.png" width="400"> 
+</p>
+
 * Implementing generalized linear models (GLM) for non linear data.
 * Identifying the correct GLM family and link function for modelling various problems.
 * EDA, interaction terms, and model selection.
