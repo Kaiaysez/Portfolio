@@ -43,12 +43,12 @@
 
 ## Course: STAT3500 - Applied Modern Statistics (High Distinction)
 
-### [Assignment 1: Statistical modelling (Code: R)](https://github.com/Kaiaysez/STAT3006-Assignment-1)
+### [Assignment 1: Statistical modelling - Multiple linear regression and logistic regression (Code: R)](https://github.com/Kaiaysez/STAT3006-Assignment-1)
 * Implementing multiple linear regression and determining significant covariates.
 * Residual analysis, checking model assumptions.
 * Implementing and interpreting logit and probit models.
 
-### [Assignment 2: Statistical modelling (Code: R)](https://github.com/Kaiaysez/STAT3006-Assignment-2) 
+### [Assignment 2: Statistical modelling - Generalized linear models (Code: R)](https://github.com/Kaiaysez/STAT3006-Assignment-2) 
 * Implementing generalized linear models (GLM) for non linear data.
 * EDA, interaction terms, and model selection.
 
