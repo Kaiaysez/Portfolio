@@ -60,7 +60,7 @@
 * Identifying the correct GLM family and link function for modelling various problems.
 * EDA, interaction terms, and model selection.
 
-### [Assignment 3: Mathematical statistics](https://github.com/Kaiaysez/STAT3500-Assignment-3)
+### [Assignment 3: Mathematical statistics - Properties of the EM algorithm](https://github.com/Kaiaysez/STAT3500-Assignment-3)
 * Proving properties of the regular exponential family.
 * Proving properties of the EM algorithm for Gaussian Mixture Models and deriving the update equations.
 * Maximum likelihood estimation (MLE) in the context of the EM algorithm.
