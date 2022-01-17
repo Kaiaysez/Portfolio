@@ -43,7 +43,9 @@
 
 ## Course: STAT3500 - Applied Modern Statistics (High Distinction)
 
-### [Assignment 1: Statistical modelling - Multiple linear regression and logistic regression (Code: R)](https://github.com/Kaiaysez/STAT3006-Assignment-1)
+### [Assignment 1: Statistical modelling - Multiple linear regression and logistic regression (Code: R)](https://github.com/Kaiaysez/STAT3500-Assignment-1)
+<img src="images/disease.jpg" width="600">
+
 * Implementing multiple linear regression and determining significant covariates.
 * Residual analysis, checking model assumptions.
 * Implementing and interpreting logit and probit models.
