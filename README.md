@@ -52,8 +52,8 @@
 
 ### [Assignment 2: Statistical modelling - Generalized linear models (Code: R)](https://github.com/Kaiaysez/STAT3500-Assignment-2)
 <p float="left">
-  <img src="images/cancer%20treatment.png" width="410">
-  <img src="images/insecticide.png" width="410"> 
+  <img src="images/cancer%20treatment.png" width="417">
+  <img src="images/insecticide.png" width="417"> 
 </p>
 
 * Implementing generalized linear models (GLM) for non linear data.
