@@ -15,7 +15,7 @@
 * Comparing and contrasting EM and K-Means, implementation in R.
 * Model selection via gap statistic and the Bayesian Information Criterion (BIC). 
 
-### [Assignment 3: Supervised learning (Code: Python)](https://github.com/Kaiaysez/STAT3006-Assignment-3)
+### [Assignment 3: Supervised learning (Code: Python)](https://github.com/Kaiaysez/STAT3500-Assignment-3)
 <p float="left">
   <img src="images/banknotes.png" width="400">
   <img src="images/Banknotes%20classified.png" width="415"> 
