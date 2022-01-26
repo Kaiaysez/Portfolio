@@ -46,6 +46,7 @@ In the final year of my mathematics degree, I decided that I wanted to pursue a 
 * Carrying out multivariate hypothesis testing and false discovery rate (FDR) methods in R to test whether there is a difference in distribution of gene expression levels between Acute Lymphoblastic Leukemia cells and Acute Myeloid Leukemia cells.
 * Implementing elastic net regression via the glmnet package in R.
 
+<br/><br/>
 
 ## Course: STAT3500 - Applied Modern Statistics (High Distinction)
 
@@ -78,7 +79,9 @@ In the final year of my mathematics degree, I decided that I wanted to pursue a 
 
 <br/><br/>
 
-## Computer Vision Deep Learning Project: Estimating the probability of potting a ball in billiards using a convolutional neural network.
+## Personal Projects 
+
+### [Computer Vision Deep Learning Project: Estimating the probability of potting a ball in billiards using a convolutional neural network (Made use of Google Colab's free GPU service for training the model)](https://github.com/Kaiaysez/Estimating-potting-probability-in-billiards)
 
 <p float="left">
   <img src="images/11%25%20blue.png" width="400">
