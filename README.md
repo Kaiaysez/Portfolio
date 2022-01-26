@@ -1,4 +1,4 @@
-# Machine Learning/Statistics University Coursework and Personal Projects 
+# Data Science Portfolio (Machine learning/Statistics University Coursework + Personal Projects)
 
 In the final year of my mathematics degree, I decided that I wanted to pursue a data science career and took as many practical, project based machine learning and statistics courses as I was able to. Below are two courses I am particularly proud of, and I have given summaries of all the projects/assignments I did for each course. ***Click on the assignment titles (in blue) for links to the repositories where you can see all my work including the code.***
 
@@ -79,12 +79,12 @@ In the final year of my mathematics degree, I decided that I wanted to pursue a 
 ## Computer Vision Deep Learning Project: Estimating the probability of potting a ball in billiards using a convolutional neural network.
 
 <p float="left">
-  <img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/11%25%20blue.png" width="400">
-  <img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/33%25.png" width="400"> 
+  <img src="images/11%25%20blue.png" width="400">
+  <img src="images/33%25.png" width="400"> 
 </p>
 <p float="left">
-  <img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/65%25%20Red.png" width="400">
-  <img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/95%25%20Darkblue.png" width="400"> 
+  <img src="images/65%25%20Red.png" width="400">
+  <img src="images/95%25%20Darkblue.png" width="400"> 
 </p>
 
 Aims:
