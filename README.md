@@ -5,7 +5,7 @@ In the final year of my mathematics degree, I decided that I wanted to pursue a 
 ***To read about my personal deep learning project on estimating the probability of potting a ball in billiards and other personal projects, scroll to the bottom.***
 
 ---
-
+<br/><br/>
 
 ## Course: STAT3006 - Statistical Learning (High Distinction)
 
@@ -74,7 +74,9 @@ In the final year of my mathematics degree, I decided that I wanted to pursue a 
 ### [Assignment 4: Implementing the EM algorithm and hypothesis testing via bootstrapping (Code: R)](https://github.com/Kaiaysez/STAT3500-Assignment-4)
 * Implementing the EM algorithm for Gaussian mixture models in R.
 * Selecting the number of clusters using the Bayesian Information Criterion (BIC).
-* Parameter estimation and hypothesis testing via parametric and non-parametric bootstraps.
+* Parameter estimation and hypothesis testing via parametric and non-parametric bootstraps
+
+<br/><br/>
 
 ## Computer Vision Deep Learning Project: Estimating the probability of potting a ball in billiards using a convolutional neural network.
 
