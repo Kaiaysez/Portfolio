@@ -1,8 +1,8 @@
 # Machine Learning and Statistics University Coursework
 
-In the final year of my mathematics degree, I decided that I wanted to pursue a data science career and took as many machine learning and statistics courses as I was able to. Below are two courses I am particularly proud of, and I have given summaries of all the projects/assignments I did for each course. ***Click on the assignment titles (in blue) for links to the repositories where you can see all my work including the code.***
+In the final year of my mathematics degree, I decided that I wanted to pursue a data science career and took as many practical, project based machine learning and statistics courses as I was able to. Below are two courses I am particularly proud of, and I have given summaries of all the projects/assignments I did for each course. ***Click on the assignment titles (in blue) for links to the repositories where you can see all my work including the code.***
 
-I will also be posting some of the personal data science projects that I have done/am currently working on, but that is still a work in progress.
+***To read about my deep learning project on estimating the probability of potting a ball in billiards and other personal projects, scroll to the bottom.***
 
 ---
 
@@ -75,3 +75,24 @@ I will also be posting some of the personal data science projects that I have do
 * Implementing the EM algorithm for Gaussian mixture models in R.
 * Selecting the number of clusters using the Bayesian Information Criterion (BIC).
 * Parameter estimation and hypothesis testing via parametric and non-parametric bootstraps.
+
+## Computer Vision Deep Learning Project: Estimating the probability of potting a ball in billiards using a convolutional neural network.
+
+<p float="left">
+  <img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/11%25%20blue.png" width="400">
+  <img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/33%25.png" width="400"> 
+</p>
+<p float="left">
+  <img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/65%25%20Red.png" width="400">
+  <img src="https://github.com/Kaiaysez/Portfolio/blob/main/images/95%25%20Darkblue.png" width="400"> 
+</p>
+
+Aims:
+* Designing and implementing a deep convolutional neural network (CNN) for distinguishing between "good" and "bad" positions in billiards.
+* Testing different CNN architectures in an attempt to overcome the domain specific problem of requiring a large effective receptive field size to capture important information such as the position of the object balls, cue ball, cue stick, pockets and rails relative to each other.
+* Visualizing the filters and feature maps to see if the model comes up with intuitive heuristics for prediction.
+* Using temperature scaling to calibrate the model so that the output can be interpreted as probabilities instead of just black and white classification.
+
+This is still a work in progress. **I expect to have a link to the github repo by early-mid February** once I am satisfied with the work. At the moment, I have designed a working model that can give decent predictions with roughly 70% accuracy on and a specificity of 60% on validation set. The latter is an important metric since the model has been trained as a binary classifier, and roughly 57% of the training data are labelled as successful shots. Training was done using Google Colab's free GPU's. As a comparison, my own human predictive accuracy is roughly 80%, and someone who does not play pool or is a beginner would almost certainly perform worse than the model. 
+
+**The ultimate aim is to design a CNN architecture that can pick up useful intuitive heuristics.** This is a very difficult problem because CNN's are great at picking up important local structures in images. However, in pool, the best heuristics tend to be global. For example, the cue stick, cue ball, the target ball and the target pocket are all far apart from each other, so it is necessary that the effective receptive field of neurons is large. On the other hand, there *are* useful simple local heuristics such as a ball hanging over a pocket, balls stuck to the rails or balls clumped up together near the cue ball. These are much more likely to be picked up by the CNN. Visualizing the feature maps would help greatly in examining this. This will be my next step followed by increasing the sample size (I have lots of data but it takes time to gather it as I am working on the project alone), and finally implementing temperature scaling to calibrate the model to give good probability estimates.
