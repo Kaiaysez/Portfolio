@@ -57,7 +57,7 @@ I will also be posting some personal projects that I have really enjoyed working
 
 <br/><br/>
 
-<div id='2'>
+<div id='2'/>
 
 ## Course: STAT3500 - Applied Modern Statistics (High Distinction)
 
