@@ -1,12 +1,9 @@
 # Data Science Portfolio (Machine learning/Statistics University Coursework + Personal Projects)
 
 ## Table of Contents  
-[Headers](#headers)  
+[Course: STAT3006 - Statistical Learning (High Distinction)](#headers)
 [Course: STAT3500 - Applied Modern Statistics (High Distinction)](#headers)  
-[Emphasis](#headers)    
-
-## Headers
-
+[Personal Projects](#headers)    
 
 In the final year of my mathematics degree, I decided that I wanted to pursue a data science career and took as many practical, project based machine learning and statistics courses as I was able to. Below are two courses I am particularly proud of, and I have given summaries of all the projects/assignments I did for each course. ***Click on the assignment titles (in blue) for links to the repositories where you can see all my work including the code.***
 
