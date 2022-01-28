@@ -1,12 +1,15 @@
 # Data Science Portfolio (Machine learning/Statistics University Coursework + Personal Projects
 
+In the final year of my mathematics degree, I decided that I wanted to pursue a data science career and took as many practical, project based machine learning and statistics courses as I was able to. Below are two courses I am particularly proud of, and I have given summaries of all the projects/assignments I did for each course. ***Click on the header titles (in blue) for links to the repositories where you can see all my work including the code.***
+
+I will also be posting some personal projects that I have really enjoyed working on.
+
 # Table of Contents
 - [Course: STAT3006 - Statistical Learning (High Distinction)](#1)
 - [Course: STAT3500 - Applied Modern Statistics (High Distinction)](#2)
 - [Deep Learning/Computer Vision - Estimating Ball Potting Probability in Billiards (Personal Project)](#3)
 
 
-In the final year of my mathematics degree, I decided that I wanted to pursue a data science career and took as many practical, project based machine learning and statistics courses as I was able to. Below are two courses I am particularly proud of, and I have given summaries of all the projects/assignments I did for each course. ***Click on the assignment titles (in blue) for links to the repositories where you can see all my work including the code.***
 
 ---
 <br/><br/>
