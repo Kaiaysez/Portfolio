@@ -1,5 +1,12 @@
 # Data Science Portfolio (Machine learning/Statistics University Coursework + Personal Projects)
 
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
 In the final year of my mathematics degree, I decided that I wanted to pursue a data science career and took as many practical, project based machine learning and statistics courses as I was able to. Below are two courses I am particularly proud of, and I have given summaries of all the projects/assignments I did for each course. ***Click on the assignment titles (in blue) for links to the repositories where you can see all my work including the code.***
 
 ***To read about my personal deep learning project on estimating the probability of potting a ball in billiards and other personal projects, scroll to the bottom.***
@@ -45,6 +52,8 @@ In the final year of my mathematics degree, I decided that I wanted to pursue a 
 * Performing dimensionality reduction on handwritten digits (MNIST dataset) via auto-encoders and principle component analysis (PCA) in R. 
 * Carrying out multivariate hypothesis testing and false discovery rate (FDR) methods in R to test whether there is a difference in distribution of gene expression levels between Acute Lymphoblastic Leukemia cells and Acute Myeloid Leukemia cells.
 * Implementing elastic net regression via the glmnet package in R.
+
+## Emphasis
 
 <br/><br/>
 
