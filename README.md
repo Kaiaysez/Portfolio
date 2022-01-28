@@ -1,12 +1,17 @@
 # Data Science Portfolio (Machine learning/Statistics University Coursework + Personal Projects
 
+# Table of Contents
+- [Course: STAT3006 - Statistical Learning (High Distinction)](#1)
+- [Course: STAT3500 - Applied Modern Statistics (High Distinction)](#2)
+- [Deep Learning/Computer Vision - Estimating Ball Potting Probability in Billiards (Personal Project)](#3)
+
 
 In the final year of my mathematics degree, I decided that I wanted to pursue a data science career and took as many practical, project based machine learning and statistics courses as I was able to. Below are two courses I am particularly proud of, and I have given summaries of all the projects/assignments I did for each course. ***Click on the assignment titles (in blue) for links to the repositories where you can see all my work including the code.***
 
-***To read about my personal deep learning project on estimating the probability of potting a ball in billiards and other personal projects, scroll to the bottom.***
-
 ---
 <br/><br/>
+
+<div id='1'/>
 
 ## Course: STAT3006 - Statistical Learning (High Distinction)
 
@@ -49,6 +54,8 @@ In the final year of my mathematics degree, I decided that I wanted to pursue a 
 
 <br/><br/>
 
+<div id='2'>
+
 ## Course: STAT3500 - Applied Modern Statistics (High Distinction)
 
 ### [Assignment 1: Statistical modelling - Multiple linear regression and logistic regression (Code: R)](https://github.com/Kaiaysez/STAT3500-Assignment-1)
@@ -80,6 +87,8 @@ In the final year of my mathematics degree, I decided that I wanted to pursue a 
 
 <br/><br/>
 
+<div id='3'/>
+  
 ## Personal Projects 
 
 ### [Computer Vision Deep Learning Project: Estimating the probability of potting a ball in billiards using a convolutional neural network (Made use of Google Colab's free GPU service for training the model)](https://github.com/Kaiaysez/Estimating-potting-probability-in-billiards)
