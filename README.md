@@ -1,9 +1,9 @@
 # Data Science Portfolio (Machine learning/Statistics University Coursework + Personal Projects)
 
-##### Table of Contents  
+## Table of Contents  
 [Headers](#headers)  
-[Emphasis](#emphasis)  
-[Emphasis](#emphasis)    
+[Emphasis](#headers)  
+[Emphasis](#headers)    
 <a name="headers"/>
 ## Headers
 
