@@ -3,9 +3,10 @@
 ##### Table of Contents  
 [Headers](#headers)  
 [Emphasis](#emphasis)  
-...snip...    
+[Emphasis](#emphasis)    
 <a name="headers"/>
 ## Headers
+
 
 In the final year of my mathematics degree, I decided that I wanted to pursue a data science career and took as many practical, project based machine learning and statistics courses as I was able to. Below are two courses I am particularly proud of, and I have given summaries of all the projects/assignments I did for each course. ***Click on the assignment titles (in blue) for links to the repositories where you can see all my work including the code.***
 
@@ -53,9 +54,9 @@ In the final year of my mathematics degree, I decided that I wanted to pursue a 
 * Carrying out multivariate hypothesis testing and false discovery rate (FDR) methods in R to test whether there is a difference in distribution of gene expression levels between Acute Lymphoblastic Leukemia cells and Acute Myeloid Leukemia cells.
 * Implementing elastic net regression via the glmnet package in R.
 
-## Emphasis
-
 <br/><br/>
+
+# Emphasis
 
 ## Course: STAT3500 - Applied Modern Statistics (High Distinction)
 
