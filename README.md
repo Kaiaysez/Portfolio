@@ -2,7 +2,7 @@
 
 ## Table of Contents  
 [Headers](#headers)  
-[Emphasis](#headers)  
+[Course: STAT3500 - Applied Modern Statistics (High Distinction)](#headers)  
 [Emphasis](#headers)    
 
 ## Headers
@@ -55,8 +55,6 @@ In the final year of my mathematics degree, I decided that I wanted to pursue a 
 * Implementing elastic net regression via the glmnet package in R.
 
 <br/><br/>
-
-# Emphasis
 
 ## Course: STAT3500 - Applied Modern Statistics (High Distinction)
 
