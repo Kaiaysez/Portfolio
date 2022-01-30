@@ -94,7 +94,7 @@ I will also be posting some personal projects that I have really enjoyed working
   
 ## Personal Projects 
 
-### [Computer Vision Deep Learning Project: Estimating the probability of potting a ball in billiards using a convolutional neural network (Made use of Google Colab's free GPU service for training the model)](https://github.com/Kaiaysez/Estimating-potting-probability-in-billiards)
+### [Computer Vision Deep Learning Project: Estimating the probability of potting a ball in billiards using a convolutional neural network (Code: Python) (Made use of Google Colab's free GPU renting service for training the model)](https://github.com/Kaiaysez/Estimating-potting-probability-in-billiards)
 
 <p float="left">
   <img src="images/11%25%20blue.png" width="400">
