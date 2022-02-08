@@ -7,7 +7,7 @@ I will also be posting some personal projects that I have really enjoyed working
 # Table of Contents
 - [Course: STAT3006 - Statistical Learning (High Distinction)](#1)
 - [Course: STAT3500 - Applied Modern Statistics (High Distinction)](#2)
-- [Deep Learning/Computer Vision - Estimating Ball Potting Probability in Billiards (Personal Project)](#3)
+- [Personal Project: Deep Learning/Computer Vision - Estimating Ball Potting Probability in Billiards](#3)
 
 
 
