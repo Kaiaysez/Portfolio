@@ -126,3 +126,5 @@ If successful, the procedures and techniques used in this project can be modifie
 * The sample size is relatively small (Less than 2000 images per class).
 * The class labels may be slightly imbalanced.
 * Interpreting the output of the neural network as probabilities is desireable.
+
+### Note: Click the title link in blue for more details + python code
