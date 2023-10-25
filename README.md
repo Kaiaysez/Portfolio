@@ -1,6 +1,6 @@
-# Data Science Portfolio (Machine learning/Statistics Projects)
+# Portfolio (Machine learning/Statistics Projects)
 
-In the final year of my mathematics degree, I decided that I wanted to pursue a data science career and took as many practical, project based machine learning and statistics courses as I was able to. Below are two courses I am particularly proud of, and I have given summaries of all the projects/assignments I did for each course. 
+In the final year of my mathematics degree, I decided that I wanted to use the math that I had learned and apply it to the real world in some way. This eventually led me to taking as many practical, project based courses as I was able to. Below are two courses I am particularly proud of, and I have given summaries of all the projects/assignments I did for each course. 
 
 I will also be posting some personal projects that I have really enjoyed working on.
 
